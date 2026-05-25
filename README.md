@@ -35,16 +35,5 @@
    - `/Library/MobileSubstrate/DynamicLibraries/`
 5. 重启 SpringBoard 或设备
 
-## GitHub 上传说明
-如果你想把本项目上传到 GitHub：
-```bash
-cd "ego"
-git init -b main
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/<your-account>/ego.git
-git push -u origin main
-```
-
 ## 免责声明
 本项目仅供技术学习、研究与个人使用。请勿用于违反微信用户协议或相关法律法规的场景。使用产生的后果由使用者自行承担。

@@ -8,6 +8,8 @@ DerivedData/
 
 # Build
 build/
+LatestBuild/
+Packages/
 *.app
 *.ipa
 *.dSYM
